@@ -25,7 +25,7 @@ struct Row {
         // If row is empty, start at the beginning
         guard !items.isEmpty else { return .zero }
         
-        // 1. Try to add horizontally after the last item
+        // Try to add horizontally after the last item
         let lastItem = items.max(by: { $0.frame.maxX < $1.frame.maxX })!
         let newX = lastItem.frame.maxX + horizontalSpacing
         
@@ -34,7 +34,7 @@ struct Row {
             return CGRect(origin: .init(x: newX, y: 0), size: size)
         }
         
-        // 2. If it doesn't fit horizontally, try to stack vertically
+        // If it doesn't fit horizontally, try to stack vertically
         let sortedItems = items.sorted { $0.frame.minX < $1.frame.minX }
         //combine with max values + remove duplicates
         
