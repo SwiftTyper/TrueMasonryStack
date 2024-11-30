@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6711E21D2CFB37B000EC3EE0 /* TrueMasonaryStack in Frameworks */ = {isa = PBXBuildFile; productRef = 6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */; };
+		6711E22F2CFB3C3300EC3EE0 /* TrueMasonryStack in Frameworks */ = {isa = PBXBuildFile; productRef = 6711E22E2CFB3C3300EC3EE0 /* TrueMasonryStack */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6711E21D2CFB37B000EC3EE0 /* TrueMasonaryStack in Frameworks */,
+				6711E22F2CFB3C3300EC3EE0 /* TrueMasonryStack in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,7 +70,7 @@
 			);
 			name = TrueMasonryStackExample;
 			packageProductDependencies = (
-				6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */,
+				6711E22E2CFB3C3300EC3EE0 /* TrueMasonryStack */,
 			);
 			productName = TrueMasonryStackExample;
 			productReference = 6711E20A2CFB373900EC3EE0 /* TrueMasonryStackExample.app */;
@@ -101,7 +101,7 @@
 			mainGroup = 6711E2012CFB373900EC3EE0;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */,
+				6711E22D2CFB3C3300EC3EE0 /* XCLocalSwiftPackageReference "../../TrueMasonryStack" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 6711E20B2CFB373900EC3EE0 /* Products */;
@@ -334,22 +334,17 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCRemoteSwiftPackageReference section */
-		6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SwiftTyper/TrueMasonaryStack";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.0.0;
-			};
+/* Begin XCLocalSwiftPackageReference section */
+		6711E22D2CFB3C3300EC3EE0 /* XCLocalSwiftPackageReference "../../TrueMasonryStack" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../../TrueMasonryStack;
 		};
-/* End XCRemoteSwiftPackageReference section */
+/* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */ = {
+		6711E22E2CFB3C3300EC3EE0 /* TrueMasonryStack */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */;
-			productName = TrueMasonaryStack;
+			productName = TrueMasonryStack;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
