@@ -1,15 +1,15 @@
 //
 //  File.swift
-//  TrueMasonaryStack
+//  TrueMasonryStack
 //
 //  Created by Wit Owczarek on 29/11/2024.
 //
 
 import Foundation
 import SwiftUI
-@testable import TrueMasonaryStack
+@testable import TrueMasonryStack
 
-public class TestSubview: TrueMasonaryStack.Subview {
+public class TestSubview: TrueMasonryStack.Subview {
     var placement: CGRect?
     var size: CGSize
 
@@ -27,4 +27,4 @@ public class TestSubview: TrueMasonaryStack.Subview {
     }
 }
 
-extension [TestSubview]: TrueMasonaryStack.Subviews {}
+extension [TestSubview]: TrueMasonryStack.Subviews {}

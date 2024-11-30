@@ -7,45 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6711E1F42CFA6FBE00EC3EE0 /* TrueMasonaryStack in Frameworks */ = {isa = PBXBuildFile; productRef = 6711E1F32CFA6FBE00EC3EE0 /* TrueMasonaryStack */; };
+		6711E21D2CFB37B000EC3EE0 /* TrueMasonaryStack in Frameworks */ = {isa = PBXBuildFile; productRef = 6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6711E1D32CFA02C900EC3EE0 /* TrueMasonaryStackExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrueMasonaryStackExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6711E20A2CFB373900EC3EE0 /* TrueMasonryStackExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrueMasonryStackExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6711E1D52CFA02C900EC3EE0 /* TrueMasonaryStackExample */ = {
+		6711E20C2CFB373900EC3EE0 /* TrueMasonryStackExample */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TrueMasonaryStackExample;
+			path = TrueMasonryStackExample;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6711E1D02CFA02C900EC3EE0 /* Frameworks */ = {
+		6711E2072CFB373900EC3EE0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6711E1F42CFA6FBE00EC3EE0 /* TrueMasonaryStack in Frameworks */,
+				6711E21D2CFB37B000EC3EE0 /* TrueMasonaryStack in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6711E1CA2CFA02C900EC3EE0 = {
+		6711E2012CFB373900EC3EE0 = {
 			isa = PBXGroup;
 			children = (
-				6711E1D52CFA02C900EC3EE0 /* TrueMasonaryStackExample */,
-				6711E1D42CFA02C900EC3EE0 /* Products */,
+				6711E20C2CFB373900EC3EE0 /* TrueMasonryStackExample */,
+				6711E20B2CFB373900EC3EE0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6711E1D42CFA02C900EC3EE0 /* Products */ = {
+		6711E20B2CFB373900EC3EE0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6711E1D32CFA02C900EC3EE0 /* TrueMasonaryStackExample.app */,
+				6711E20A2CFB373900EC3EE0 /* TrueMasonryStackExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,68 +53,68 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6711E1D22CFA02C900EC3EE0 /* TrueMasonaryStackExample */ = {
+		6711E2092CFB373900EC3EE0 /* TrueMasonryStackExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6711E1E12CFA02CB00EC3EE0 /* Build configuration list for PBXNativeTarget "TrueMasonaryStackExample" */;
+			buildConfigurationList = 6711E2182CFB373C00EC3EE0 /* Build configuration list for PBXNativeTarget "TrueMasonryStackExample" */;
 			buildPhases = (
-				6711E1CF2CFA02C900EC3EE0 /* Sources */,
-				6711E1D02CFA02C900EC3EE0 /* Frameworks */,
-				6711E1D12CFA02C900EC3EE0 /* Resources */,
+				6711E2062CFB373900EC3EE0 /* Sources */,
+				6711E2072CFB373900EC3EE0 /* Frameworks */,
+				6711E2082CFB373900EC3EE0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6711E1D52CFA02C900EC3EE0 /* TrueMasonaryStackExample */,
+				6711E20C2CFB373900EC3EE0 /* TrueMasonryStackExample */,
 			);
-			name = TrueMasonaryStackExample;
+			name = TrueMasonryStackExample;
 			packageProductDependencies = (
-				6711E1F32CFA6FBE00EC3EE0 /* TrueMasonaryStack */,
+				6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */,
 			);
-			productName = TrueMasonaryStackExample;
-			productReference = 6711E1D32CFA02C900EC3EE0 /* TrueMasonaryStackExample.app */;
+			productName = TrueMasonryStackExample;
+			productReference = 6711E20A2CFB373900EC3EE0 /* TrueMasonryStackExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6711E1CB2CFA02C900EC3EE0 /* Project object */ = {
+		6711E2022CFB373900EC3EE0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					6711E1D22CFA02C900EC3EE0 = {
+					6711E2092CFB373900EC3EE0 = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = 6711E1CE2CFA02C900EC3EE0 /* Build configuration list for PBXProject "TrueMasonaryStackExample" */;
+			buildConfigurationList = 6711E2052CFB373900EC3EE0 /* Build configuration list for PBXProject "TrueMasonryStackExample" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6711E1CA2CFA02C900EC3EE0;
+			mainGroup = 6711E2012CFB373900EC3EE0;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				6711E1F22CFA6FBE00EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */,
+				6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */,
 			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 6711E1D42CFA02C900EC3EE0 /* Products */;
+			productRefGroup = 6711E20B2CFB373900EC3EE0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6711E1D22CFA02C900EC3EE0 /* TrueMasonaryStackExample */,
+				6711E2092CFB373900EC3EE0 /* TrueMasonryStackExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6711E1D12CFA02C900EC3EE0 /* Resources */ = {
+		6711E2082CFB373900EC3EE0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -124,7 +124,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6711E1CF2CFA02C900EC3EE0 /* Sources */ = {
+		6711E2062CFB373900EC3EE0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -134,7 +134,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		6711E1DF2CFA02CB00EC3EE0 /* Debug */ = {
+		6711E2162CFB373C00EC3EE0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -197,7 +197,7 @@
 			};
 			name = Debug;
 		};
-		6711E1E02CFA02CB00EC3EE0 /* Release */ = {
+		6711E2172CFB373C00EC3EE0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -253,14 +253,14 @@
 			};
 			name = Release;
 		};
-		6711E1E22CFA02CB00EC3EE0 /* Debug */ = {
+		6711E2192CFB373C00EC3EE0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TrueMasonaryStackExample/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TrueMasonryStackExample/Preview Content\"";
 				DEVELOPMENT_TEAM = 9S3338F94S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -274,7 +274,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Wit.O.TrueMasonaryStackExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Wit.O.TrueMasonryStackExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -282,14 +282,14 @@
 			};
 			name = Debug;
 		};
-		6711E1E32CFA02CB00EC3EE0 /* Release */ = {
+		6711E21A2CFB373C00EC3EE0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TrueMasonaryStackExample/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TrueMasonryStackExample/Preview Content\"";
 				DEVELOPMENT_TEAM = 9S3338F94S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -303,7 +303,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Wit.O.TrueMasonaryStackExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Wit.O.TrueMasonryStackExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -314,20 +314,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6711E1CE2CFA02C900EC3EE0 /* Build configuration list for PBXProject "TrueMasonaryStackExample" */ = {
+		6711E2052CFB373900EC3EE0 /* Build configuration list for PBXProject "TrueMasonryStackExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6711E1DF2CFA02CB00EC3EE0 /* Debug */,
-				6711E1E02CFA02CB00EC3EE0 /* Release */,
+				6711E2162CFB373C00EC3EE0 /* Debug */,
+				6711E2172CFB373C00EC3EE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6711E1E12CFA02CB00EC3EE0 /* Build configuration list for PBXNativeTarget "TrueMasonaryStackExample" */ = {
+		6711E2182CFB373C00EC3EE0 /* Build configuration list for PBXNativeTarget "TrueMasonryStackExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6711E1E22CFA02CB00EC3EE0 /* Debug */,
-				6711E1E32CFA02CB00EC3EE0 /* Release */,
+				6711E2192CFB373C00EC3EE0 /* Debug */,
+				6711E21A2CFB373C00EC3EE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -335,23 +335,23 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		6711E1F22CFA6FBE00EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */ = {
+		6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SwiftTyper/TrueMasonaryStack";
 			requirement = {
-				branch = main;
-				kind = branch;
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		6711E1F32CFA6FBE00EC3EE0 /* TrueMasonaryStack */ = {
+		6711E21C2CFB37B000EC3EE0 /* TrueMasonaryStack */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6711E1F22CFA6FBE00EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */;
+			package = 6711E21B2CFB37B000EC3EE0 /* XCRemoteSwiftPackageReference "TrueMasonaryStack" */;
 			productName = TrueMasonaryStack;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 6711E1CB2CFA02C900EC3EE0 /* Project object */;
+	rootObject = 6711E2022CFB373900EC3EE0 /* Project object */;
 }

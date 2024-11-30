@@ -1,12 +1,12 @@
 //
 //  ContentView.swift
-//  TrueMasonaryStackExample
+//  TrueMasonryStackExample
 //
-//  Created by Wit Owczarek on 29/11/2024.
+//  Created by Wit Owczarek on 30/11/2024.
 //
 
 import SwiftUI
-import TrueMasonaryStack
+import TrueMasonryStack
 
 typealias Rect = (size: CGSize, color: Color)
 

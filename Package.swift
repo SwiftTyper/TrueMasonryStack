@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "TrueMasonaryStack",
+    name: "TrueMasonryStack",
     platforms: [.iOS(.v16)],
     products: [
-        .library(name: "TrueMasonaryStack",targets: ["TrueMasonaryStack"]),
+        .library(name: "TrueMasonryStack",targets: ["TrueMasonryStack"]),
     ],
     targets: [
-        .target(name: "TrueMasonaryStack"),
-        .testTarget(name: "TrueMasonaryStackTests",dependencies: ["TrueMasonaryStack"]),
+        .target(name: "TrueMasonryStack"),
+        .testTarget(name: "TrueMasonryStackTests",dependencies: ["TrueMasonryStack"]),
     ]
 )

@@ -1,6 +1,6 @@
 import Testing
 import SwiftUI
-@testable import TrueMasonaryStack
+@testable import TrueMasonryStack
 
 @Suite("MStack Layout Tests")
 struct MStackTests {

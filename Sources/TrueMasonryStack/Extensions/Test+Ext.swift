@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  TrueMasonaryStack
+//  TrueMasonryStack
 //
 //  Created by Wit Owczarek on 29/11/2024.
 //

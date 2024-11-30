@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftTyper/TrueMasonaryStack",
       "state" : {
-        "branch" : "main",
-        "revision" : "635b3c3eb12c993f6b67d18aadca720b09e7e348"
+        "revision" : "06f6a7a4972dde1e6d3cded7b2d651d5d7b9c01d",
+        "version" : "1.0.0"
       }
     }
   ],
