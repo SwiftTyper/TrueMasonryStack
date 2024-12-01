@@ -51,7 +51,7 @@ struct ContentView: View {
 
 ## The Why?
 
-The original idea for this package arose from the need for a better layout to display widgets in my app **Wigion**. Widgets in **Wigion** can be displayed in many different sizes, and using a typical `WrappingHStack` or grid proved to be extremely space inefficient. So i developed **TrueMasonryStack** to solve this problem by making better use of available space while keeping the layout visually appealing.
+The original idea for this package arose from the need for a better layout to display widgets in my app **[Wigion](https://apps.apple.com/us/app/wigion/id6578453601)**. Widgets in **Wigion** can be displayed in many different sizes, and using a typical `WrappingHStack` or grid proved to be extremely space inefficient. So i developed **TrueMasonryStack** to solve this problem by making better use of available space while keeping the layout visually appealing.
 
 
 ![wigion](https://github.com/user-attachments/assets/49bb329d-dfae-4844-b1cb-711b9db9165c)
